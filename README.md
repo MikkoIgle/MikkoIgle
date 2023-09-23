@@ -4,12 +4,9 @@
 
 ### 🌱 I’m currently learning Javascript
 
-### 💞️ I’m looking to collaborate on Creating Websites
-
 ### ⚡ My technical skills are:
-## - Visual Basic
-## - Phython
-## - C#
+## - Javascript
 ## - mySQL
 ## - PostgresSQL
+
 ### 📫 How to reach me mikkoigle15@gmail.com
